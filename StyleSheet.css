@@ -1,0 +1,182 @@
+﻿body
+{
+    background-color:Gray;
+     position:absolute;
+}
+.container
+{
+    margin-top: 25px; 
+    margin-right: 125px; 
+    margin-left: 125px;
+    margin-bottom:40px; 
+    color:Black;
+    font-family: Verdana; 
+    font-size: 12px;
+    text-align:justify;
+    background-color:#C0C0C0;
+    padding:10px;
+   
+}
+
+.hr1
+{
+     direction:ltr;
+       width: 1100px;
+       color: gray;
+        height: 5px; 
+        background: gray;
+        
+}
+
+.menu ul li
+{
+    float:left;
+    list-style:none;
+    margin:10px;
+    color:Red;
+    height: 23px;
+    width: 104px;
+    font-size:14px;
+    
+}
+a {
+    text-decoration:none;
+    font-weight:bold;
+    color: Black;
+}
+
+a:hover {
+   text-decoration: underline;
+   background-color:Lime;
+    
+} 
+
+.imgright {
+    Width:300px;
+    height:200px;
+    clear:right;
+    Border-Color:gray;
+    float:right;
+    
+    padding-bottom:2px;
+    padding-left:2px;
+    padding-right:2px;
+    padding-top:2px;
+    
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:5px;
+    margin-right:10px
+ }
+ .img_left {
+    Width:250px;
+    height:200px;
+    clear:left;
+   Border-Color:gray;
+    float:left;
+    padding-bottom:2px;
+    padding-left:2px;
+    padding-right:2px;
+    padding-top:2px;
+    margin-top:5px;
+    margin-bottom:10px;
+    margin-right:10px;
+    margin-left:10px;
+ }
+ 
+ .img_longleft {
+    Width:300px;
+    height:400px;
+    clear:left;
+   Border-Color:gray;
+    float:left;
+    padding-bottom:2px;
+    padding-left:2px;
+    padding-right:2px;
+    padding-top:2px;
+    margin-top:5px;
+    margin-bottom:10px;
+    margin-right:10px;
+    margin-left:10px;
+ }
+ 
+  
+.footer
+{
+    background-color:Teal;
+    clear:both;
+    color:Black;
+    border:2px;
+    margin-bottom:5px;
+    margin-top:5px;
+     
+}
+/* figure */
+
+ 
+   
+div .left {
+    float: left;
+     border: solid 2px #555;
+    padding: 2px;
+    margin: 3px 5px 3px 3pt;
+    background-color: #eed;
+}
+
+div .right {
+    float: right;
+     border: solid 2px #555;
+    padding: 2px;
+    margin: 3px 5px 3px 12pt;
+    background-color: #eed;
+}
+
+
+
+div .figcaption {
+    font-family:Verdana;
+    font-size:medium;
+    text-align: center;
+    
+}
+
+details
+{
+    margin-left:10px;
+    font-size:16px;
+}
+details summary 
+{
+    font-size:20px;
+     margin-left:10px;
+}
+/* aside */
+
+aside.about {
+    float: right;
+    width: 300px;
+    background-color: #80DAEB;
+    margin: 3pt 6pt 3pt 6pt;
+    padding: 6pt 0;
+}
+
+aside p {
+    margin: 0 12pt;
+    font-size: 16px;
+}
+
+aside section h1 {
+    padding-top: 3pt;
+    border-top: 4px solid blue;
+}
+
+aside header p {
+    font-size: 85%;
+}
+
+aside section {
+    padding: 5px 0;
+}
+
+
+
